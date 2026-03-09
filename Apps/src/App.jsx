@@ -251,7 +251,7 @@ export default function ConcreteMixDesigner() {
       </div>
 
       {/* Body */}
-      <div style={{ display: "flex", flexWrap: "wrap", gap: 0, minHeight: "calc(100vh - 73px)" }}>
+      <div style={{ display: "flex", flex: 1, overflow: "hidden" }}>
 
         {/* ── LEFT: Inputs ── */}
         <div style={{

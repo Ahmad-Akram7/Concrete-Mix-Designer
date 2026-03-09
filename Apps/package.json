@@ -1,0 +1,43 @@
+{
+  "name": "concrete-mix-designer",
+  "version": "1.0.0",
+  "description": "ACI 211.1 Concrete Mix Design Calculator - Absolute Volume Method",
+  "type": "module",
+  "main": "src/index.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext .js,.jsx",
+    "format": "prettier --write src"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.55.0",
+    "eslint-plugin-react": "^7.33.2",
+    "prettier": "^3.1.1",
+    "vite": "^7.3.1"
+  },
+  "keywords": [
+    "concrete",
+    "mix-design",
+    "ACI 211.1",
+    "construction",
+    "civil-engineering",
+    "absolute-volume-method"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/concrete-mix-designer"
+  },
+  "homepage": "https://github.com/yourusername/concrete-mix-designer#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/concrete-mix-designer/issues"
+  }
+}

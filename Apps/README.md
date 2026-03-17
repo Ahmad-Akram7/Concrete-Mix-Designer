@@ -219,8 +219,8 @@ MIT License - feel free to use, modify, and distribute
 
 ## 👤 Author
 
-Your Name  
-Contact: your.email@example.com
+Ahmad Akram  
+Contact: alexhales7406@gmail.com
 
 ## 🤝 Contributing
 
